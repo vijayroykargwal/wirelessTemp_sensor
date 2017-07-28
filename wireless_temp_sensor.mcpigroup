@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=LED_blinking.mcppi
+Project1=..\ucontroller\wireless_temp_sensor.mcppi
+[ActiveProject]
+Index=1
